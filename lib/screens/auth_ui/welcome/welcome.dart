@@ -19,7 +19,7 @@ class Welcome extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            TopTitles( subtitle: 'Buy anything, anytime, anywhere!', title: 'SnapShop'),
+            TopTitles( subtitle: 'Buy anything, anytime, anywhere!', title: 'Snapshop'),
             Center(child:
             Image.asset("assets/images/welcome.png",
             alignment: Alignment.center,),

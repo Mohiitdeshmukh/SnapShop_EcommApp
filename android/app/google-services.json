@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "89149050014",
+    "project_id": "snapshop-51de3",
+    "storage_bucket": "snapshop-51de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89149050014:android:51febdf9ef35a84f7b3f8f",
+        "android_client_info": {
+          "package_name": "com.example.ecomm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89149050014-d5tbpinh712nuk59rcspfqs0qsvbc5ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BbwWBlLo72GxrhtArdxpICW1qdMolLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89149050014-d5tbpinh712nuk59rcspfqs0qsvbc5ta.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89149050014-v5tob08mdp07oabn8qtpsjnfh47cvgb6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
