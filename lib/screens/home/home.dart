@@ -330,6 +330,72 @@ class Home extends StatelessWidget {
             ],
           ),
           SizedBox(
+            height: 10,
+          ),
+          Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 1),
+                child: Container(
+                  height: 400,
+                  width: 400,
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade300,
+                    borderRadius: BorderRadius.circular(7),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.only(left: 9, top: 20),
+                        child: Text("Upto 60% off  |  Skincare",
+                          style: TextStyle(
+                            color: Colors.grey.shade800,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 22,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+          SizedBox(
+            height: 10,
+          ),
+          Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 1),
+                child: Container(
+                  height: 400,
+                  width: 400,
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade300,
+                    borderRadius: BorderRadius.circular(7),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Padding(
+                        padding: const EdgeInsets.only(left: 9, top: 20),
+                        child: Text("Recently Viewed",
+                          style: TextStyle(
+                            color: Colors.grey.shade800,
+                            fontWeight: FontWeight.bold,
+                            fontSize: 22,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+            ],
+          ),
+          SizedBox(
             height: 20,
           ),
           SizedBox(
